@@ -1,0 +1,5 @@
+{"device_id": "D01", "sequence": 1, "status": "ok"}
+{"device_id": "D01", "sequence": 1, "status": "ok"}
+{"device_id": "D02", "sequence": 2, "status": "error"}
+{bad json
+{"device_id": "D01", "sequence": 3, "status": "error"}
