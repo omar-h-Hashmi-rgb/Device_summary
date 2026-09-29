@@ -20,6 +20,10 @@ uvicorn main:app --reload
 
 Open http://127.0.0.1:8000/summary for the JSON summary. Interactive docs are at http://127.0.0.1:8000/docs.
 
+The response for the bundled sample looks like this:
+
+![GET /summary response for the sample file](screenshot.png)
+
 ## Test
 
 From this directory:
